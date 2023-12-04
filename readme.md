@@ -89,13 +89,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
-## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=juannlowe&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/juannlowe/web-projects)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=juannlowe&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/juannlowe/al-folio)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=juannlowe&repo=juannlowe&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/juannlowe/juannlowe)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=juannlowe&repo=juannlowe.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/juannlowe/juannlowe.github.io)
-
 <p align="left">
   <a href="https://github.com/juannlowe?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
