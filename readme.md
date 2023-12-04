@@ -22,14 +22,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://juannlowe.com"</a>Juan Branca</b>
+                <b><a target="_blank" href="https://juannlowe.com"></a>Juan Branca</b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    「 I am a full stack web application developer from <b>Santa Barbara, CA</b> 」
+    「 I am a full stack web application developer from <b>Santa Barbara, CA</b>
     <br>
     <br>
   </samp>
