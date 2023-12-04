@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a full stack web application developer from <b>Santa Barbara, CA</b>
+    「 I am a full stack web application developer from <b>Santa Barbara, CA</b>  」
     <br>
     <br>
   </samp>
