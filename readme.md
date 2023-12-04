@@ -36,15 +36,12 @@
 </p>
 
 <p align="center">
- <a href="www.zolowe.com" target="blank">
+ <a href="https://www.zolowe.com/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="juannlowe" />
  </a>
  <a href="https://www.linkedin.com/in/juan-branca-38945023a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Juan Branca"/>
  </a>
- <!-- <a href="https://dev.to/juannlowe" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="juannlowe" />
- </a> -->
  <a href="https://instagram.com/juannlowe" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="juannlowe" />
  </a> 
@@ -59,7 +56,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: juannlowe.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: juan.dbranca@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/juannlowe/juannlowe/issues)
 
 </p>
